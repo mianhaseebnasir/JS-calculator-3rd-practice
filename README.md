@@ -22,13 +22,17 @@ Division (/)
 
 Percentage (%)
 
-##Folder Structure:
+Folder Structure:
 
 calculator-3rd-practice/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
