@@ -69,5 +69,7 @@ JavaScript logic building
 👨‍💻 Author
 
 Mian Haseeb Nasir
+
 Founder – Nova-Stack Technologies
+
 GitHub: https://github.com/mianhaseebnasir
