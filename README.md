@@ -1,5 +1,4 @@
 JavaScript Calculator App
-📄 Description:
 
 This is my 3rd JavaScript practice project after completing my JS class.
 
